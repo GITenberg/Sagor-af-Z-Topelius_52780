@@ -1,0 +1,34 @@
+_repo: Sagor-af-Z-Topelius_52780
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Sakarias
+    - Topelius, Zakarias
+    - Topelius, Zachris
+    - Topelius, Zakris
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Zachris_Topelius
+    - http://fi.wikipedia.org/wiki/Zacharias_Topelius
+description: ''
+gutenberg_issued: '2016-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52780'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Kyrktuppen -- Skeppet Rephanut -- Fattig-Gubben -- William Sellsing
+  och hans katt -- Swalan från Egypti land -- Sagan om Jättarne och Kung Autio.
+title: Sagor af Z. Topelius.
+url: http://www.gutenberg.org/ebooks/52780
